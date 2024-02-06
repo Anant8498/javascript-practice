@@ -34,8 +34,6 @@
 //   console.log("num is odd");
 // }
 
-
-
 // 3. Write a program to find maximum between three numbers.
 
 // let a=3;
@@ -88,9 +86,18 @@
 //   } else {
 //     console.log("num is even");
 //   }
+// } else {
+//   console.log("num is odd");
+// }
 
-//   // } else if (num ===0) {
-//   //   console.log("num is zero");
+// // or
+
+// let num = 0;
+
+// if (num === 0) {
+//   console.log("num is zero");
+// } else if (num % 2 == 0) {
+//   console.log("num is even");
 // } else {
 //   console.log("num is odd");
 // }
