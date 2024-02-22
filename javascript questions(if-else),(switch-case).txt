@@ -6,3 +6,36 @@ Practice questions for this week
 5. Write a program to print days of a week using switch case. 
 6. Write a program to find maximum between two numbers using switch case. 
 7. Write a program to check whether a number is negative positive or zero using switch case.
+
+
+
+8. Write a program to input angles of a triangle and check whether triangle is valid or not.
+9. Write a program to input sides of a triangle and check whether triangle is valid or not.
+10. Write a program to check whether the triangle is equilateral,isoceles or scalene triangle.
+11. Write a program to read the age of the candidate and determine whether he is eligible to cast his/her vote.
+12. Write a program to check whether the input character is alphabet,digit or special character.
+13. Write a program to check whether the input character is vowel or consonant.
+14. Write a program to create Simple Calculator using switch case.(+,-,*,/,% etc.)
+15. Write a program to read temperature in centigrade and display a suitable message according to temperature using switch case as given below:-
+
+Temperature<0 - Freezing weather
+Temperature 0-10  - Very Cold weather
+Temperature 10-20 - Cold weather
+Temperature 20-30 - Normal in temp
+Temperature 30-40  - Its hot
+Temperature >=40 - Its very hot11
+
+
+
+16. Write a program to check whether a number is divisible by 5 and 11 Or not. 
+17. Write a program to check whether a character is upper case Or lower case alphabet. 
+18. Write a program to find profit or loss. 
+19. Write a program to print no of days in a month. 
+20. Write a program  to accept a grade and declare the equivalent description :
+
+Grade	Description
+E	Excellent
+V	Very Good
+G	Good
+A	Average
+F	Fail
